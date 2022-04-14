@@ -1,3 +1,35 @@
 body{
   background-color: aquamarine;
 }
+/* .btn.btn-primary {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+} */
+
+h1{
+  text-align: center;
+  border: solid black;
+  background-color: darkgoldenrod;
+  width: 300px;
+}
+
+.text-center{
+  margin: 50px;
+}
+
+.rounded-circle{
+  circle: 50%;
+}
+
+p{
+  text-align: center;
+  padding: 10px;
+}
+
+.button5{
+  margin-bottom:10px;
+}
